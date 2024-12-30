@@ -74,7 +74,7 @@ export default function GameBoard({ players, questionsPerPlayer, onGameEnd, onEx
         </button>
       </div>
 
-      <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 mb-6">
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-6">
         {players.map(player => (
           <PlayerCard
             key={player.name}
