@@ -51,6 +51,14 @@ export default function GameBoard({ players, questionsPerPlayer, onGameEnd, onEx
     }
   };
 
+  const handleSkip = () => {
+    if (selectedQuestion) {
+      setUsedQuestions(prev => new Set([...prev, selectedQuestion.id]));
+    }
+    setSelectedQuestion(null);
+    setShowAnswer(false);
+  };
+
   const currentPlayer = players[currentPlayerIndex];
   const remainingQuestions = (players.length * questionsPerPlayer) - questionsAnswered;
 
@@ -93,14 +101,14 @@ export default function GameBoard({ players, questionsPerPlayer, onGameEnd, onEx
               onClick={() => handleCategorySelect(category.name)}
               className="p-4 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-center"
             >
-              {category.name} {category.icon} 
+              {category.name} {category.icon}
             </button>
           ))}
         </div>
       ) : (
         <div className="bg-white rounded-lg shadow-lg p-6">
           <h3 className="text-lg font-semibold mb-4">{selectedQuestion.question}</h3>
-          
+
           {!showAnswer ? (
             <div className="flex justify-center gap-4">
               <button
@@ -125,6 +133,12 @@ export default function GameBoard({ players, questionsPerPlayer, onGameEnd, onEx
                   className="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600"
                 >
                   Incorrect
+                </button>
+                <button
+                  onClick={() => handleSkip()}
+                  className="bg-orange-500 text-white px-4 py-2 rounded-lg hover:bg-red-600"
+                >
+                  Skip
                 </button>
               </div>
             </>
