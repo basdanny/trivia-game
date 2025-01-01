@@ -170,34 +170,6 @@ export const geographyQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: 3024,
-    category: "Geography",
-    question: "What is the smallest country by land area?",
-    answer: "Vatican City",
-    difficulty: "easy"
-  },
-  {
-    id: 3025,
-    category: "Geography",
-    question: "Which ocean is the deepest?",
-    answer: "Pacific Ocean",
-    difficulty: "medium"
-  },
-  {
-    id: 3026,
-    category: "Geography",
-    question: "What is the highest mountain in the world?",
-    answer: "Mount Everest",
-    difficulty: "easy"
-  },
-  {
-    id: 3027,
-    category: "Geography",
-    question: "What country is known as the Land of the Rising Sun?",
-    answer: "Japan",
-    difficulty: "easy"
-  },
-  {
     id: 3028,
     category: "Geography",
     question: "Which U.S. state is the largest by area?",
@@ -210,20 +182,6 @@ export const geographyQuestions: Question[] = [
     question: "What is the longest river in the United States?",
     answer: "Missouri River",
     difficulty: "medium"
-  },
-  {
-    id: 3030,
-    category: "Geography",
-    question: "What is the largest continent?",
-    answer: "Asia",
-    difficulty: "easy"
-  },
-  {
-    id: 3031,
-    category: "Geography",
-    question: "Which country is also called Holland?",
-    answer: "Netherlands",
-    difficulty: "easy"
   },
   {
     id: 3032,
@@ -310,34 +268,6 @@ export const geographyQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: 3044,
-    category: "Geography",
-    question: "What is the smallest country by land area?",
-    answer: "Vatican City",
-    difficulty: "easy"
-  },
-  {
-    id: 3045,
-    category: "Geography",
-    question: "Which ocean is the deepest?",
-    answer: "Pacific Ocean",
-    difficulty: "medium"
-  },
-  {
-    id: 3046,
-    category: "Geography",
-    question: "What is the highest mountain in the world?",
-    answer: "Mount Everest",
-    difficulty: "easy"
-  },
-  {
-    id: 3047,
-    category: "Geography",
-    question: "What country is known as the Land of the Rising Sun?",
-    answer: "Japan",
-    difficulty: "easy"
-  },
-  {
     id: 3048,
     category: "Geography",
     question: "Which U.S. state is the largest by area?",
@@ -350,20 +280,6 @@ export const geographyQuestions: Question[] = [
     question: "What is the longest river in the United States?",
     answer: "Missouri River",
     difficulty: "medium"
-  },
-  {
-    id: 3050,
-    category: "Geography",
-    question: "What is the largest continent?",
-    answer: "Asia",
-    difficulty: "easy"
-  },
-  {
-    id: 3051,
-    category: "Geography",
-    question: "Which country is also called Holland?",
-    answer: "Netherlands",
-    difficulty: "easy"
   },
   {
     id: 3052,
@@ -450,34 +366,6 @@ export const geographyQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: 3064,
-    category: "Geography",
-    question: "What is the smallest country by land area?",
-    answer: "Vatican City",
-    difficulty: "easy"
-  },
-  {
-    id: 3065,
-    category: "Geography",
-    question: "Which ocean is the deepest?",
-    answer: "Pacific Ocean",
-    difficulty: "medium"
-  },
-  {
-    id: 3066,
-    category: "Geography",
-    question: "What is the highest mountain in the world?",
-    answer: "Mount Everest",
-    difficulty: "easy"
-  },
-  {
-    id: 3067,
-    category: "Geography",
-    question: "What country is known as the Land of the Rising Sun?",
-    answer: "Japan",
-    difficulty: "easy"
-  },
-  {
     id: 3068,
     category: "Geography",
     question: "Which U.S. state is the largest by area?",
@@ -490,20 +378,6 @@ export const geographyQuestions: Question[] = [
     question: "What is the longest river in the United States?",
     answer: "Missouri River",
     difficulty: "medium"
-  },
-  {
-    id: 3070,
-    category: "Geography",
-    question: "What is the largest continent?",
-    answer: "Asia",
-    difficulty: "easy"
-  },
-  {
-    id: 3071,
-    category: "Geography",
-    question: "Which country is also called Holland?",
-    answer: "Netherlands",
-    difficulty: "easy"
   },
   {
     id: 3072,
@@ -590,34 +464,6 @@ export const geographyQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: 3084,
-    category: "Geography",
-    question: "What is the smallest country by land area?",
-    answer: "Vatican City",
-    difficulty: "easy"
-  },
-  {
-    id: 3085,
-    category: "Geography",
-    question: "Which ocean is the deepest?",
-    answer: "Pacific Ocean",
-    difficulty: "medium"
-  },
-  {
-    id: 3086,
-    category: "Geography",
-    question: "What is the highest mountain in the world?",
-    answer: "Mount Everest",
-    difficulty: "easy"
-  },
-  {
-    id: 3087,
-    category: "Geography",
-    question: "What country is known as the Land of the Rising Sun?",
-    answer: "Japan",
-    difficulty: "easy"
-  },
-  {
     id: 3088,
     category: "Geography",
     question: "Which U.S. state is the largest by area?",
@@ -630,20 +476,6 @@ export const geographyQuestions: Question[] = [
     question: "What is the longest river in the United States?",
     answer: "Missouri River",
     difficulty: "medium"
-  },
-  {
-    id: 3090,
-    category: "Geography",
-    question: "What is the largest continent?",
-    answer: "Asia",
-    difficulty: "easy"
-  },
-  {
-    id: 3091,
-    category: "Geography",
-    question: "Which country is also called Holland?",
-    answer: "Netherlands",
-    difficulty: "easy"
   },
   {
     id: 3092,
@@ -702,3 +534,4 @@ export const geographyQuestions: Question[] = [
     difficulty: "easy"
   }
 ];
+

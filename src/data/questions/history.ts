@@ -142,13 +142,6 @@ export const historyQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: 4020,
-    category: "History",
-    question: "Who was the first President of the United States?",
-    answer: "George Washington",
-    difficulty: "easy"
-  },
-  {
     id: 4021,
     category: "History",
     question: "In which year did World War II end?",
@@ -175,13 +168,6 @@ export const historyQuestions: Question[] = [
     question: "Which empire was ruled by Julius Caesar?",
     answer: "Roman Empire",
     difficulty: "easy"
-  },
-  {
-    id: 4025,
-    category: "History",
-    question: "What year did the Titanic sink?",
-    answer: "1912",
-    difficulty: "medium"
   },
   {
     id: 4026,
@@ -240,53 +226,11 @@ export const historyQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: 4034,
-    category: "History",
-    question: "Which U.S. President abolished slavery?",
-    answer: "Abraham Lincoln",
-    difficulty: "easy"
-  },
-  {
-    id: 4035,
-    category: "History",
-    question: "Who was the last queen of France before the French Revolution?",
-    answer: "Marie Antoinette",
-    difficulty: "medium"
-  },
-  {
-    id: 4036,
-    category: "History",
-    question: "What was the name of the treaty that ended World War I?",
-    answer: "Treaty of Versailles",
-    difficulty: "medium"
-  },
-  {
-    id: 4037,
-    category: "History",
-    question: "Which empire was known for its Samurai warriors?",
-    answer: "Japanese Empire",
-    difficulty: "medium"
-  },
-  {
-    id: 4038,
-    category: "History",
-    question: "Who was the Prime Minister of the UK during most of World War II?",
-    answer: "Winston Churchill",
-    difficulty: "easy"
-  },
-  {
     id: 4039,
     category: "History",
     question: "What event is known as 'The Shot Heard Round the World'?",
     answer: "The start of the American Revolutionary War",
     difficulty: "medium"
-  },
-  {
-    id: 4040,
-    category: "History",
-    question: "Who was the first President of the United States?",
-    answer: "George Washington",
-    difficulty: "easy"
   },
   {
     id: 4041,
@@ -315,13 +259,6 @@ export const historyQuestions: Question[] = [
     question: "Which empire was ruled by Julius Caesar?",
     answer: "Roman Empire",
     difficulty: "easy"
-  },
-  {
-    id: 4045,
-    category: "History",
-    question: "What year did the Titanic sink?",
-    answer: "1912",
-    difficulty: "medium"
   },
   {
     id: 4046,
@@ -380,53 +317,11 @@ export const historyQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: 4054,
-    category: "History",
-    question: "Which U.S. President abolished slavery?",
-    answer: "Abraham Lincoln",
-    difficulty: "easy"
-  },
-  {
-    id: 4055,
-    category: "History",
-    question: "Who was the last queen of France before the French Revolution?",
-    answer: "Marie Antoinette",
-    difficulty: "medium"
-  },
-  {
-    id: 4056,
-    category: "History",
-    question: "What was the name of the treaty that ended World War I?",
-    answer: "Treaty of Versailles",
-    difficulty: "medium"
-  },
-  {
-    id: 4057,
-    category: "History",
-    question: "Which empire was known for its Samurai warriors?",
-    answer: "Japanese Empire",
-    difficulty: "medium"
-  },
-  {
-    id: 4058,
-    category: "History",
-    question: "Who was the Prime Minister of the UK during most of World War II?",
-    answer: "Winston Churchill",
-    difficulty: "easy"
-  },
-  {
     id: 4059,
     category: "History",
     question: "What event is known as 'The Shot Heard Round the World'?",
     answer: "The start of the American Revolutionary War",
     difficulty: "medium"
-  },
-  {
-    id: 4060,
-    category: "History",
-    question: "Who was the first President of the United States?",
-    answer: "George Washington",
-    difficulty: "easy"
   },
   {
     id: 4061,
@@ -455,13 +350,6 @@ export const historyQuestions: Question[] = [
     question: "Which empire was ruled by Julius Caesar?",
     answer: "Roman Empire",
     difficulty: "easy"
-  },
-  {
-    id: 4065,
-    category: "History",
-    question: "What year did the Titanic sink?",
-    answer: "1912",
-    difficulty: "medium"
   },
   {
     id: 4066,
@@ -520,53 +408,11 @@ export const historyQuestions: Question[] = [
     difficulty: "medium"
   },
   {
-    id: 4074,
-    category: "History",
-    question: "Which U.S. President abolished slavery?",
-    answer: "Abraham Lincoln",
-    difficulty: "easy"
-  },
-  {
-    id: 4075,
-    category: "History",
-    question: "Who was the last queen of France before the French Revolution?",
-    answer: "Marie Antoinette",
-    difficulty: "medium"
-  },
-  {
-    id: 4076,
-    category: "History",
-    question: "What was the name of the treaty that ended World War I?",
-    answer: "Treaty of Versailles",
-    difficulty: "medium"
-  },
-  {
-    id: 4077,
-    category: "History",
-    question: "Which empire was known for its Samurai warriors?",
-    answer: "Japanese Empire",
-    difficulty: "medium"
-  },
-  {
-    id: 4078,
-    category: "History",
-    question: "Who was the Prime Minister of the UK during most of World War II?",
-    answer: "Winston Churchill",
-    difficulty: "easy"
-  },
-  {
     id: 4079,
     category: "History",
     question: "What event is known as 'The Shot Heard Round the World'?",
     answer: "The start of the American Revolutionary War",
     difficulty: "medium"
-  },
-  {
-    id: 4080,
-    category: "History",
-    question: "Who was the first President of the United States?",
-    answer: "George Washington",
-    difficulty: "easy"
   },
   {
     id: 4081,
@@ -595,13 +441,6 @@ export const historyQuestions: Question[] = [
     question: "Which empire was ruled by Julius Caesar?",
     answer: "Roman Empire",
     difficulty: "easy"
-  },
-  {
-    id: 4085,
-    category: "History",
-    question: "What year did the Titanic sink?",
-    answer: "1912",
-    difficulty: "medium"
   },
   {
     id: 4086,
@@ -658,41 +497,6 @@ export const historyQuestions: Question[] = [
     question: "Which battle marked the end of Napoleon's rule?",
     answer: "Battle of Waterloo",
     difficulty: "medium"
-  },
-  {
-    id: 4094,
-    category: "History",
-    question: "Which U.S. President abolished slavery?",
-    answer: "Abraham Lincoln",
-    difficulty: "easy"
-  },
-  {
-    id: 4095,
-    category: "History",
-    question: "Who was the last queen of France before the French Revolution?",
-    answer: "Marie Antoinette",
-    difficulty: "medium"
-  },
-  {
-    id: 4096,
-    category: "History",
-    question: "What was the name of the treaty that ended World War I?",
-    answer: "Treaty of Versailles",
-    difficulty: "medium"
-  },
-  {
-    id: 4097,
-    category: "History",
-    question: "Which empire was known for its Samurai warriors?",
-    answer: "Japanese Empire",
-    difficulty: "medium"
-  },
-  {
-    id: 4098,
-    category: "History",
-    question: "Who was the Prime Minister of the UK during most of World War II?",
-    answer: "Winston Churchill",
-    difficulty: "easy"
   },
   {
     id: 4099,
